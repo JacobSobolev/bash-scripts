@@ -5,7 +5,8 @@
 # Prints all the number from 1 to $range
 # that are divided by 3 or 5
 # but not 15
-#
+# ----------
+# seq (1 100) => creates a list of 1 to 100 each number in a new line
 ########################
 
 range=100
