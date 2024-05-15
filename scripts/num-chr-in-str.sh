@@ -7,7 +7,7 @@
 # --------
 # grep -o => returns each latter in a new line 
 # wc = word count , wc -l => counts the lines
-# <<<  -  here is string
+# <<<  -  here is a string
 ########################
 
 str=mississippi

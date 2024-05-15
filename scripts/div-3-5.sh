@@ -2,7 +2,7 @@
 
 ########################
 #
-# Prints all the number from 1 to $range
+# Prints all the numbers from 1 to $range
 # that are divided by 3 or 5
 # but not 15
 # ----------
